@@ -1,0 +1,1 @@
+export default function AdminPage(){return <main style={{padding:'40px 5vw'}}><h1>Store Admin</h1><p>Manage products, inventory, orders, customers, discounts and homepage merchandising.</p></main>}
