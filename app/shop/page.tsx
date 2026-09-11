@@ -1,0 +1,1 @@
+export default function ShopPage(){return <main style={{padding:'40px 5vw'}}><h1>Shop</h1><p>Browse the full Zim Tuckshop catalogue. Product search, filters and pagination will read from Supabase.</p></main>}
