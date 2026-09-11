@@ -1,0 +1,1 @@
+export default function AccountPage(){return <main style={{padding:'40px 5vw'}}><h1>My Account</h1><p>Customer profile, saved addresses, favourites and order history will be managed here.</p></main>}
