@@ -1,0 +1,1 @@
+export default function CartPage(){return <main style={{padding:'40px 5vw'}}><h1>Your Basket</h1><p>Basket items, promo codes, shipping or pickup selection and checkout summary will appear here.</p></main>}
